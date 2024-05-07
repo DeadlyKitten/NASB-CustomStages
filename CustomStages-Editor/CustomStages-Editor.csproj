@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <RootNamespace>CustomStages</RootNamespace>
+    <AssemblyName>CustomStages</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;EDITOR</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\CustomStages-Plugin\Extras\RandomShower.cs" Link="RandomShower.cs" />
+    <Compile Include="..\CustomStages-Plugin\Extras\SimplePlatformMover.cs" Link="SimplePlatformMover.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="CustomStages-Editor.csproj.user" Condition="Exists('CustomStages-Editor.csproj.user')" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(GameDir)\Launcher Nickelodeon All-Star Brawl_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GameDir)\Launcher Nickelodeon All-Star Brawl_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameDir)\Launcher Nickelodeon All-Star Brawl_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>$(GameDir)\Launcher Nickelodeon All-Star Brawl_Data\Managed\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(ProjectDir)$(OutDir)$(TargetFileName)&quot; &quot;$(ProjectDir)..\CustomStages-Project\Assets\SDK&quot; /Y" />
+  </Target>
+</Project>

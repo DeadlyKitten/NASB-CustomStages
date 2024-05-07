@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3512090193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a335b7992cfa71612ab711eb592eb4cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab154c9c3b84a50c7735963f7e26fe32
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -808333415, guid: 5eb8f1cb76ee57f4a922f19d32054213, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 573eaf37c4becce44b9e15e1cf7cdfab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35da812b982f5d6468faa6b0b502e693, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86d4254ab29514046915af1ead953a9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6564c9079cd1b704cbf1f6c1ed971290, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d9fa82dcd5bb4c4791330f5f2420dec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deeebfd1540601c46b01b64f41f74895, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Skin Scene.unity
+Dependencies: []

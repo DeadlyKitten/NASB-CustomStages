@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1381787389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 584669aed0b16680bba52447d43a6703
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60a5af6d3663e88af72a476eb5e7f310
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfe0c86540cf41d45a1e5996848c7ef3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa830b7bd80c2941bc99f2d9cc07cd6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/beebo.unity
+Dependencies: []

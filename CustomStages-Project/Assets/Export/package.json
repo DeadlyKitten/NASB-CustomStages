@@ -1,0 +1,18 @@
+{
+    "id": "beebo",
+    "name": "test2",
+    "author": "Steven",
+    "bundlePath": "beebo.assetbundle",
+    "portraitPath": "portrait",
+    "stagePath": "Assets/Export/beebo.unity",
+    "musicId": "n/a",
+    "blastzoneDistUp": 28.0,
+    "blastzoneDistDown": 25.0,
+    "blastzoneDistLeft": 24.0,
+    "blastzoneDistRight": 24.0,
+    "cameraDistUp": 18.0,
+    "cameraDistDown": 15.0,
+    "cameraDistLeft": 18.0,
+    "cameraDistRight": 18.0,
+    "cameraMinDist": 7.0
+}

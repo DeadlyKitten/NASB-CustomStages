@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c5e2e002bf02c04381e2bf2055caee3, type: 3}
+  m_Name: stage
+  m_EditorClassIdentifier: 
+  StageName: Falcon's Realm
+  Author: Steven
+  MusicID: showyourmoves
+  BlastzoneDistUp: 28
+  BlastzoneDistDown: 25
+  BlastzoneDistLeft: 24
+  BlastzoneDistRight: 24
+  CameraDistUp: 22
+  CameraDistDown: 14
+  CameraDistLeft: 18
+  CameraDistRight: 18
+  CameraMinDist: 8
+  stage: {fileID: 6850043777956796491, guid: 21e682b9e5339a6498c56a47a403ab93, type: 3}
+  portrait: {fileID: 2800000, guid: 5de8285d66eea8e4f8c30326be5be072, type: 3}
+  stageMusic: {fileID: 11400000, guid: 3940e749a85c3a2498ab20efe440a091, type: 2}
+  showBlastzones: 0
+  showCamera: 0
+  showStageObjects: 0

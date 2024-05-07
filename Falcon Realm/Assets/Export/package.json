@@ -1,0 +1,20 @@
+{
+    "id": "stage_falcon",
+    "name": "Falcon's Realm",
+    "author": "Steven",
+    "musicId": "showyourmoves",
+    "stageBundlePath": "stage_falcon.assetbundle",
+    "musicBundlePath": "showyourmoves.assetbundle",
+    "portraitPath": "portrait",
+    "stagePath": "Assets/Export/stage_falcon.unity",
+    "musicPath": "Assets/music.asset",
+    "blastzoneDistUp": 28.0,
+    "blastzoneDistDown": 25.0,
+    "blastzoneDistLeft": 24.0,
+    "blastzoneDistRight": 24.0,
+    "cameraDistUp": 22.0,
+    "cameraDistDown": 14.0,
+    "cameraDistLeft": 18.0,
+    "cameraDistRight": 18.0,
+    "cameraMinDist": 8.0
+}

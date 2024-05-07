@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3098743837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5b449f450827890ea637880e51cd7ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 955a09b56c283da774bcea269437b3fd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a6f6e24705120a4193e9d96f0c95942, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/music.asset
+Dependencies: []

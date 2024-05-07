@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 205348077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4528ec71c68844572d9c9da9289a1b6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fcdcb44bdbcff561b1e90bc2145f5e93
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 766a0e00bf39c3c498ed25ed240de2ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfe0c86540cf41d45a1e5996848c7ef3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb012bf7ffc769f4f95e622370e96ea8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 983729b14be22454f8d7f5543c4ed650, type: 3}
+- Class: 114
+  Script: {fileID: 1128852061, guid: 53e2be3d083fbec49810f1183d6dc0c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa830b7bd80c2941bc99f2d9cc07cd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1068b0bc2f515a6478cd75e75505374b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8be2d1d465b2f2448be3340622b05725, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8caf3d81e276f72419ebbf2dfca635c4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Export/stage_falcon.unity
+Dependencies: []

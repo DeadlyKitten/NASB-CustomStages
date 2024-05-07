@@ -1,0 +1,132 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - ExportData
+    - Nick.GameAgent
+    - Nick.GameAgentStage
+    - Nick.GameMusic
+    - Nick.LoadedAgent
+    - Nick.PolygonStageSource
+    - Nick.ProxyUpdater
+    - Nick.RectGizmo
+    - Nick.StageCPUInfo
+    - Nick.StageEdge
+    CustomStages.dll:
+    - RandomShower
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+  sceneClasses:
+    Assets/Export/stage_falcon.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 60
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1482}
+    - Class: 114
+      Script: {instanceID: 1582}
+    - Class: 114
+      Script: {instanceID: 2048}
+    - Class: 114
+      Script: {instanceID: 2458}
+    - Class: 114
+      Script: {instanceID: 3066}
+    - Class: 114
+      Script: {instanceID: 3192}
+    - Class: 114
+      Script: {instanceID: 3846}
+    - Class: 114
+      Script: {instanceID: 3992}
+    - Class: 114
+      Script: {instanceID: 4128}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: c0c95e70bea4986a30df6173db89f3d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: ProxyUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: f0feb0096630453edf5674c0a689422b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: GameAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 196179b1f396ef80dea4b1626a06d6c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: PolygonStageSource
+  - hash:
+      serializedVersion: 2
+      Hash: 3c909a38a8ba89c490b551c8131c3eb5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: RectGizmo
+  - hash:
+      serializedVersion: 2
+      Hash: a393e87e85207c75f19e15ba7339a775
+    assemblyName: CustomStages.dll
+    namespaceName: 
+    className: RandomShower
+  - hash:
+      serializedVersion: 2
+      Hash: bc9e23d3e27d7c945c824062b5780a70
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: LoadedAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 284f5d9bdaed2e2fa4d300ea0adcd718
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: StageCPUInfo
+  - hash:
+      serializedVersion: 2
+      Hash: c6f94270e00ba601b637fc2ec5ed1c35
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: StageEdge
+  - hash:
+      serializedVersion: 2
+      Hash: 1dda7a066853f19ab584ce1f993e90d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Nick
+    className: GameAgentStage
+  platform: 5
+  scenePathNames:
+  - Assets/Export/stage_falcon.unity
+  playerPath: C:/Users/Steven/source/repos/NASB/CustomStages/Falcon Realm/Assets/Export/stage_falcon.assetbundle

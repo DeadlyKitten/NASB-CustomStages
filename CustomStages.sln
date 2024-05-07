@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStages-Editor", "CustomStages-Editor\CustomStages-Editor.csproj", "{7C767910-0567-45D4-BAC0-C3072EE68BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStages-Plugin", "CustomStages-Plugin\CustomStages-Plugin.csproj", "{33CC0FC0-26BB-4EE3-9970-6E19D2952A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C767910-0567-45D4-BAC0-C3072EE68BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C767910-0567-45D4-BAC0-C3072EE68BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C767910-0567-45D4-BAC0-C3072EE68BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C767910-0567-45D4-BAC0-C3072EE68BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CC0FC0-26BB-4EE3-9970-6E19D2952A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CC0FC0-26BB-4EE3-9970-6E19D2952A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CC0FC0-26BB-4EE3-9970-6E19D2952A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CC0FC0-26BB-4EE3-9970-6E19D2952A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA37FC90-C188-4139-BCF6-7ECA27875BBE}
+	EndGlobalSection
+EndGlobal
